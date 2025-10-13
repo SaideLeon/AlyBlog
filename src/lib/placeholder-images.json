@@ -1,3 +1,76 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-artist",
+      "description": "Aly dos Santos looking pensively towards the camera in a warm, artistic setting.",
+      "imageUrl": "https://picsum.photos/seed/aly/1200/800",
+      "imageHint": "artist portrait"
+    },
+    {
+      "id": "post-1",
+      "description": "A couple dancing Kizomba passionately under dramatic lighting.",
+      "imageUrl": "https://picsum.photos/seed/kizomba1/600/400",
+      "imageHint": "kizomba dance"
+    },
+    {
+      "id": "post-2",
+      "description": "Close-up of a microphone in a recording studio, with soft ambient light.",
+      "imageUrl": "https://picsum.photos/seed/studio/600/400",
+      "imageHint": "recording studio"
+    },
+    {
+      "id": "post-3",
+      "description": "A vibrant cityscape at night, representing tour life.",
+      "imageUrl": "https://picsum.photos/seed/tour/600/400",
+      "imageHint": "city night"
+    },
+    {
+      "id": "post-4",
+      "description": "A stylish flat lay of headphones, a notebook, and a coffee cup.",
+      "imageUrl": "https://picsum.photos/seed/lifestyle/600/400",
+      "imageHint": "musician lifestyle"
+    },
+    {
+      "id": "album-art-1",
+      "description": "Abstract album art with red and black shapes.",
+      "imageUrl": "https://picsum.photos/seed/album1/400/400",
+      "imageHint": "abstract art"
+    },
+    {
+      "id": "album-art-2",
+      "description": "Monochromatic portrait for an album cover.",
+      "imageUrl": "https://picsum.photos/seed/album2/400/400",
+      "imageHint": "portrait monochrome"
+    },
+    {
+      "id": "highlight-1",
+      "description": "Aly dos Santos performing on stage.",
+      "imageUrl": "https://picsum.photos/seed/stage/300/200",
+      "imageHint": "live performance"
+    },
+    {
+      "id": "highlight-2",
+      "description": "An award trophy on a shelf.",
+      "imageUrl": "https://picsum.photos/seed/award/300/200",
+      "imageHint": "award trophy"
+    },
+    {
+      "id": "fan-1",
+      "description": "Portrait of a smiling fan.",
+      "imageUrl": "https://picsum.photos/seed/fan1/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "fan-2",
+      "description": "Portrait of a smiling fan.",
+      "imageUrl": "https://picsum.photos/seed/fan2/100/100",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "fan-3",
+      "description": "Portrait of a smiling fan.",
+      "imageUrl": "https://picsum.photos/seed/fan3/100/100",
+      "imageHint": "man portrait"
+    }
+  ]
 }
